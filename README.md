@@ -7,10 +7,9 @@ Items included :
 	* Checkers Board with Wooden Box   : 1			                       
 	* Black Magnetic Checkers Tokens   : 12			                     
 	* White Magnetic Checkers Tokens   : 12			                     
-	* Power Bank 		                   : 1			                               
+	* Power Bank 		           : 1			                               
 						
-+-----------------------------------------------------------------------------------+
- Points to be remembered :
+Points to be remembered :
 	* There is no need to attach the laptop to the hardware.	
 	* The code is already present in the Arduino Uno.	
 	* The tokens should be placed properly on the board.	
@@ -19,7 +18,6 @@ Items included :
 	* The player 1 is alloted WHITE tokens ( blue light ).	
 	* The player 2 is alloted BLACK tokens ( red light ).		
 
-+-----------------------------------------------------------------------------------+
 How to run the Project :					
 	1. Place all the pieces on the board correctly.			
 	2. Attach the power bank to the board.			
@@ -28,5 +26,5 @@ How to run the Project :
 	5. Its always the player 1 turn.				
 	6. The Duration of Game is 3 minutes. 			
 
-+-----------------------------------------------------------------------------------+
+
 
